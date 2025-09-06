@@ -1,10 +1,3 @@
-//
-//  Untitled.swift
-//  new_hats
-//
-//  Created by Guangrui Ma on 7/17/25.
-//
-
 import SwiftUI
 import FirebaseAuth
 import UIKit

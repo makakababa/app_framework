@@ -1,10 +1,3 @@
-//
-//  AppConfig.swift
-//  new_hats
-//
-//  Created by Guangrui Ma on 7/19/25.
-//
-
 import Foundation
 
 struct AppConfig {

@@ -1,26 +1,3 @@
-//
-//  new_hatsApp.swift
-//  new_hats
-//
-//  Created by Guangrui Ma on 7/14/25.
-//
-
-//import SwiftUI
-//import FirebaseCore
-//
-//@main
-//struct MyApp: App {
-//    init() {
-//        FirebaseManager.shared.configure()
-//    }
-//
-//    var body: some Scene {
-//        WindowGroup {
-//            ContentView()
-//        }
-//    }   
-//}
-
 import SwiftUI
 import FirebaseCore
 import GoogleSignIn

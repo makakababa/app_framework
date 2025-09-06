@@ -1,10 +1,3 @@
-//
-//  SplashView.swift
-//  new_hats
-//
-//  Created by Claude on 7/27/25.
-//
-
 import SwiftUI
 import RiveRuntime
 

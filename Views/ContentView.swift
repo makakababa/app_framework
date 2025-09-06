@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  new_hats
-//
-//  Created by Guangrui Ma on 7/14/25.
-//
-
 import SwiftUI
 
 struct ContentView: View {
